@@ -216,9 +216,6 @@ Happy querying and may your exploration of this dataset be both insightful and h
 
 - [Spotify Dataset Link - KAGGLE](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 
-- [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
-
-
 ## Contributing
 
 `Contributions` are always welcome !!
